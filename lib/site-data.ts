@@ -1,4 +1,4 @@
-import type { IconKey } from '@/lib/site-data'
+
 
 export type IconKey =
   | 'calendar-days'
