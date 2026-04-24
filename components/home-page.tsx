@@ -45,7 +45,7 @@ type HomePageProps = {
     initial: { opacity: number; y: number }
     whileInView: { opacity: number; y: number }
     viewport: { once: boolean; amount: number }
-    transition: { duration: number; ease: string }
+    transition: { duration: number; ease: 'easeOut' }
   }
 }
 
